@@ -54,7 +54,7 @@ window.addEventListener('load', function () {
             timeout: 2500,
             icon: false,
             title: hello,
-            message: '欢迎来到WayneのHome'
+            message: '欢迎来到HklaneのHome'
         });
     }, 800);
 
