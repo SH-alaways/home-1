@@ -346,22 +346,13 @@ color: rgb(244,167,89);
 let styleContent = `
 color: rgb(30,152,255);
 `
-let title1 = 'WayneのHome'
-let title2 = `
-==============================
-#   #    #   #   # #   # #####
-#   #   # #   # #  ##  # #
-# # #  #####   #   # # # #####
-## ##  #   #   #   #  ## #
-#   #  #   #   #   #   # #####
-==============================
-`
+let title1 = '海阔蓝の主页'
 let content = `
 版 本 号：1.5.0
 更新日期：2023-05-02
 
-主页:  https://kong.pub/
-Github:  https://github.com/Waynenet/home
+主页:  https://home.hklan.top/
+Github:  https://github.com/SH-alaways/home-1
 `
 console.log(`%c${title1} %c${title2}
 %c${content}`, styleTitle1, styleTitle2, styleContent)
